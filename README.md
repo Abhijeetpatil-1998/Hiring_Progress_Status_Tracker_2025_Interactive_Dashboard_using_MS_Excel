@@ -3,6 +3,9 @@
 ## Project Objective
 Create an interactive recruitment dashboard that tracks applications from sourcing to joining, so the HR team can see where candidates drop off, which sources and positions perform best, and speed up hiring for open positions.
 
+## Note :
+Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
+
 ## Dataset Used
 Recruitment data with Candidate details, Position Applied, Department, Application Source (Naukri, LinkedIn, Referral, Consultant, Direct), Application Date (Month/Week), Stage Status (CV Screening, HR Assessment, Tech Interview 1, Tech Interview 2, Offered), and Final Status (Rejected, Dropped out, Offered, Joined).
 
